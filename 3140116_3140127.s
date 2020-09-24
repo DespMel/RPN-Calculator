@@ -1,5 +1,4 @@
-# MELAKI DESPOINA 3140116
-# BARMPA ELENI 3140127
+
 
 .data
 	enterPostMsg: .asciiz " Postfix (input) : "
